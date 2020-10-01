@@ -4,7 +4,7 @@ heroImage: /logo.png
 backgroundImage: /background.png
 apps:
 - title: Storage Isolation
-  details: Give apps isolated storage, never be annoyed by messy folders created by poor-designed apps.<br><small>* Requires root</small>
+  details: Give apps isolated storage, never annoyed by messy folders created by poor-designed apps.<br><small>* Requires root</small>
   icon: https://sr.rikka.app/logo.png
   secondaryAction:
     link: https://sr.rikka.app
